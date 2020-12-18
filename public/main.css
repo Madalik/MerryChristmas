@@ -2,3 +2,20 @@
     text-align: center;
     background: none;
 }
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2rem;
+}
+.sectionDark {
+    background-color: #cccccc;
+}
+.coolStuff {
+    margin-top: 20px;
+}
+
+button.btn {
+    background-color: red;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+}
