@@ -18,4 +18,53 @@ button.btn {
     color: #ffffff;
     display: block;
     margin: auto;
+    margin-top: 10px;
+}
+h5.modal-title {
+    margin: auto;
+}
+.img-fluid {
+    display: block;
+    margin: auto;
+}
+.modalFormal{
+    padding: 2rem;
+}
+.imgCenter{
+    display: block;
+    margin: auto;
+}
+.btnCenter{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 55%;
+}
+.embed-responsive-item{
+    display: block;
+    margin: auto;
+}
+.footerImg{
+    padding: 15px;
+}
+.footer.bg-inverse{
+    background-color: gray;
+}
+.fa{
+    margin: 10px;
+
+}
+.fa-facebook-square{
+    color: #3b5998;
+    
+}
+.fa-google-plus-square{
+    color: #c32f10;
+}
+.fa-instagram{
+    color: white;
+}
+.socialWrap{
+    margin: auto;
 }
